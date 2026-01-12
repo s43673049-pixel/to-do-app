@@ -39,6 +39,6 @@
 
 <h2>📬Contact</h2>
 <p>🔗 Github: https://github.com/s43673049-pixel</p>
-<p>🔗Portfolio: https://github.com/s43673049-pixel/portfolio</p>
+<p>🔗Portfolio: https://s43673049-pixel.github.io/portfolio</p>
 
 
