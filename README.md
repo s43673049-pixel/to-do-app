@@ -37,9 +37,6 @@
   <li> User authentication </li>
 </ul>
 
-<h2>🧠What I Learned</h2>
-<p> This project was built as a part of my front-end development learning journey to strengthen JavaScript and UI skills.</p>
-
 <h2>📬Contact</h2>
 <p>🔗 Github: https://github.com/s43673049-pixel</p>
 <p>🔗Portfolio: https://github.com/s43673049-pixel/portfolio</p>
