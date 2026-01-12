@@ -17,32 +17,31 @@
   <li><strong>JavaScript(ES6)</strong> – Application logic and DOM manipulation</li>
 </ul>
 <h2>Live Demo</h2>
-<p>🔗Live Website: <a>https://s43673049-pixel.github.io/to-do-app</a>
+<p>🔗Live Website: https://s43673049-pixel.github.io/to-do-app
 </p>
-
-<h2>📸Preview</h2>
-<p> A simple and elegant blog layout designed for readability and content focus.</p>
-
-<h2>🎯Purpose of this project </h2>
-<p> This project was created to:</p>
-<ul>
-  <li> Practice layout design and responsiveness </li>
-  <li> Improve HTML semantic structure</li>
-  <li>Build a real-world blog UI</li>
-  <li> Strengthen front-end development skills</li>
-</ul>
 
 <h2>🧠What I Learned</h2>
 <ul>
-  <li>Creating reusable layout components</li>
-  <li>Improving UI readability with spacing & typography</li>
-  <li>Responsive design using media queries</li>
-  <li>Organizing project files professionally</li>
+  <li> Understanding DOM manipulation </li>
+  <li> Working with JavaScript events</li>
+  <li> using local storage for data persistence</li>
+  <li> Writing clean and reusable code </li>
+  <li> Building a complete front-end project </li>
 </ul>
 
+<h2> Future Improvements </h2>
+<ul>
+  <li> Add task categories or labels </li>
+  <li> Implement due dates and reminders </li>
+  <li> Add drag and drop task reordering </li>
+  <li> User authentication </li>
+</ul>
+
+<h2>🧠What I Learned</h2>
+<p> This project was built as a part of my front-end development learning journey to strengthen JavaScript and UI skills.</p>
+
 <h2>📬Contact</h2>
-<p>👤 Sneha</p>
-<p>🔗 Github: https://github.com/s43673049-pixel </p>
-<p>🔗Portfolio: https://portfolio.com</p>
+<p>🔗 Github: https://github.com/s43673049-pixel</p>
+<p>🔗Portfolio: https://github.com/s43673049-pixel/portfolio</p>
 
 
